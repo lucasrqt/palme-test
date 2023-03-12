@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+![logo](data/logo_2324_sf_h.png)
